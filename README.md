@@ -6,7 +6,7 @@
 * IDE: MS Visual Studio 2012
 * Backend Database: MySQL
 * MySQL GUI Tool: MySQL Workbench
-* Type of Application: Desktop Application (Windows Forms Application)
+* Type of Application: Desktop Application (Windows Forms)
   
 <h2> User Interface Screenshots </h2> 
   <img src="SCREENSHOTS/PIC1.jpg">
